@@ -9,6 +9,5 @@ dist
 node_modules
 # Coverage
 coverage
-lib
 .vscode
 coverage
